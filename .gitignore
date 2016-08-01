@@ -1,9 +1,11 @@
 *.pyc
 *.idea
 *.db
-*.db-journal
+*.db-*
 *.sass-cache
-credentials.json
+*.orig
+config/config.ini
 static/dist/
 node_modules/
 venv/
+core
